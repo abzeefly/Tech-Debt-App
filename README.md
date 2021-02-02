@@ -10,4 +10,4 @@ An sample app for telecommunication companies to calculate opprtunity cost.
 # Insightful results using graphs and tables. (ChartsJS)
 ![alt text](https://github.com/abzeefly/Tech-Debt-App/blob/main/Insightful%20results.PNG)
 
-#Try the app at : https://arcane-coast-49029.herokuapp.com/
+# Try the app at : https://arcane-coast-49029.herokuapp.com/
